@@ -1,1 +1,1 @@
-# umass-cs320
+Repository for git set up, Rayaan Hussain Abdul Rasheed
